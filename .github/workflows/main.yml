@@ -18,7 +18,7 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_KEY }}
+          GITHUB_TOKEN: ${{ secrets.DEPLY_KEY }}
           REPOSITORY_NAME: enayatullah-shadab/blog # TODO 
           BRANCH: gh-pages 
           FOLDER: src/.vuepress/dist 
