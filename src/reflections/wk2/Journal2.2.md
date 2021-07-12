@@ -16,3 +16,6 @@ function bottleCapper(bottle, cap) // parameters {
     return bottle + cap;
 }
 bottleCapper("green bottle","white cap") // arguments
+
+
+https://github.com/Enayatullah-Shadab/arrays-loop-functions.git
