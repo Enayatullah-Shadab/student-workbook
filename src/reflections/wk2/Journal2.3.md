@@ -5,3 +5,6 @@ the main way to write information in console is alert(), console.log() and docum
 The developer tool is the best way to breakdown and evaluate the bugs in our program.
 
 ## Outside of writing everything to the console, what is a better way to debug your code?
+
+
+https://github.com/Enayatullah-Shadab/JavaScriptPractices
