@@ -6,3 +6,7 @@ when I stuck into a problem refer to instructor previous codes, searching W3C, M
 
 ## From the entire article what are your biggest takeaways?
 To understand the problem and make well definite algorithms to solve the problem in the best way.
+
+
+<!-- here is my links -->
+https://github.com/hollidavis/SlapGame.git
