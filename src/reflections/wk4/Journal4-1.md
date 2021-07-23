@@ -6,3 +6,6 @@ Asynchronies describes the relationship between two or more events/objects that 
 
 # Summarize the 3 ways to avoid / fix Callback Hell
 3 ways to avoid and fix callback hell issues are using the promises and async and await
+
+
+https://github.com/Enayatullah-Shadab/Trivia-game.git
