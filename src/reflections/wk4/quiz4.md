@@ -3,7 +3,8 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+in synchronous code the flow of edxecution is from the top to the bottom till one action doesnt complete other action is 
+not happening (the events are dependent) while in asynchronous code the events are independent.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
