@@ -40,13 +40,13 @@ let Schema = ________.Schema;
 <!-- enter you answer in the space below -->
 ```
 import mongoose from 'mongoose'
-let Schema  = new Schema
+let Schema  = mongoose.Schema
 
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-A middleware is basically a function that will the receive the Request and Response objects, and have access to the request object ( req ), the response object ( res ), and the next() function in the application's request-response cycle.
+A middleware is basically a function that will the receive the Request and Response objects, and have access to the request object ( req ), the response object ( res ), and the next() function in the application's request-response cycle. Or it is a layer that works as briege between the client and server
 
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
