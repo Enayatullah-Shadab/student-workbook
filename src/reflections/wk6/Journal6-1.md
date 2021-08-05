@@ -6,3 +6,6 @@ It breakdown the problem into the small pieces and solve it easier and faster, a
 
 ## What are some drawbacks to Component based architecture?
 The biggest issue and disadvantage of component based architecture is the single resposibility and propensity towards overengineering which make it more complicated.
+
+
+https://github.com/Enayatullah-Shadab/playgrounds.git
